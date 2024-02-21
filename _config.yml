@@ -23,7 +23,7 @@ title: 幻兽帕鲁Linux服务器
 description: >- # this means to ignore newlines until "baseurl:"
   幻兽帕鲁Linux服务器
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andrewlawrence80.github.io/palworld_deploy" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
