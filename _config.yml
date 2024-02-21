@@ -22,8 +22,8 @@ title: 幻兽帕鲁Linux服务器
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   幻兽帕鲁Linux服务器
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewlawrence80.github.io/palworld_deploy" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/palworld_deploy" # the subpath of your site, e.g. /blog
+url: "https://andrewlawrence80.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
