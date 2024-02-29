@@ -6,4 +6,6 @@
 
 ## 参考
 
-[A1RM4X HowTo-Palworld](https://github.com/A1RM4X/HowTo-Palworld)
+1. 一键脚本来源[A1RM4X HowTo-Palworld](https://github.com/A1RM4X/HowTo-Palworld)
+2. 服务器详细设置[知乎 Palworld一键开服](https://zhuanlan.zhihu.com/p/679412072)
+3. 友链[Gamekee Palworld](https://www.gamekee.com/pal)
